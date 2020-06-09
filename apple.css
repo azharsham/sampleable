@@ -1,0 +1,24 @@
+#story{
+
+text-align: center;
+
+}
+
+.jumbotron {
+
+	background-image: url("https://live.staticflickr.com/976/28076145188_fe92216833_b.jpg");
+color: white;
+text-align: center;
+
+}
+
+
+#successDiv{
+ margin: auto;
+  width: 70%;
+
+
+
+background-color: #e4e4e4;
+	text-align: center;
+}
